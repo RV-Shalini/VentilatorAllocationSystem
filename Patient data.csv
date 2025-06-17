@@ -1,0 +1,49 @@
+Patient_ID,Patient_Name,Arrival_Date,Arrival_Time,Ventilator_Usage_Days,Additional_Equipment
+P1,Aiden Ross,6/14/2025,8:30:00,2,Oxygen Cylinder
+P48,Wendy Zhang,6/14/2025,11:15:00,1,None
+P2,Bella Carter,6/14/2025,13:50:00,3,ECG Monitor
+P3,Caleb Moore,6/14/2025,16:20:00,4,None
+P4,Daisy Patel,6/14/2025,20:45:00,5,Infusion Pump
+P5,Ethan Kim,6/15/2025,7:05:00,3,Oxygen Cylinder
+P6,Fiona Lewis,6/15/2025,9:40:00,3,Dialysis Machine
+P7,Gavin Smith,6/15/2025,12:10:00,5,None
+P8,Hazel Johnson,6/15/2025,15:30:00,3,Oxygen Cylinder
+P9,Ian Thompson,6/15/2025,18:55:00,4,Suction Device
+P10,Julia Garcia,6/15/2025,22:40:00,7,None
+P11,Kevin Brown,6/16/2025,6:00:00,4,ECG Monitor
+P12,Layla Martinez,6/16/2025,8:20:00,1,Infusion Pump
+P13,Mason Clark,6/16/2025,10:45:00,1,Oxygen Cylinder
+P14,Nora Adams,6/16/2025,14:00:00,1,None
+P15,Owen Hall,6/16/2025,17:25:00,3,Dialysis Machine
+P16,Priya Singh,6/16/2025,21:15:00,2,Infusion Pump
+P17,Quentin Lee,6/17/2025,7:45:00,2,None
+P18,Riya Sharma,6/17/2025,9:30:00,9,Oxygen Cylinder
+P19,Samuel White,6/17/2025,12:50:00,2,None
+P20,Tara Phillips,6/17/2025,16:05:00,2,ECG Monitor
+P21,Usha Kapoor,6/17/2025,19:40:00,2,Infusion Pump
+P22,Victor Green,6/18/2025,6:30:00,8,None
+P23,William Scott,6/18/2025,10:00:00,8,Oxygen Cylinder
+P24,Xena Rivera,6/18/2025,13:20:00,4,Dialysis Machine
+P25,Yusuf Khan,6/18/2025,15:45:00,8,None
+P26,Zara Brooks,6/18/2025,18:00:00,5,Infusion Pump
+P27,Aryan Gupta,6/18/2025,21:10:00,8,None
+P28,Bhavana Nair,6/19/2025,7:25:00,8,ECG Monitor
+P29,Carlos Reyes,6/19/2025,9:50:00,6,Oxygen Cylinder
+P30,Divya Reddy,6/19/2025,12:30:00,8,None
+P31,Elijah Turner,6/19/2025,15:00:00,1,Infusion Pump
+P32,Fatima Ali,6/19/2025,17:30:00,8,Dialysis Machine
+P33,George Hughes,6/19/2025,20:55:00,7,None
+P34,Hina Desai,6/20/2025,6:45:00,7,Oxygen Cylinder
+P35,Imran Malik,6/20/2025,10:15:00,7,ECG Monitor
+P36,Jasmine Flores,6/20/2025,13:40:00,3,None
+P37,Karthik Rao,6/20/2025,17:05:00,2,Infusion Pump
+P38,Leah Bennett,6/20/2025,19:25:00,1,Oxygen Cylinder
+P39,Manish Mehta,6/21/2025,8:10:00,1,None
+P40,Naomi Lewis,6/21/2025,11:45:00,1,Dialysis Machine
+P41,Om Prakash,6/21/2025,14:30:00,3,None
+P42,Parvati Menon,6/21/2025,16:55:00,1,Infusion Pump
+P43,Rahul Bhatia,6/21/2025,20:20:00,3,ECG Monitor
+P44,Saanvi Joshi,6/22/2025,7:35:00,2,None
+P45,Tanvi Iyer,6/22/2025,12:00:00,1,Oxygen Cylinder
+P46,Usman Qureshi,6/22/2025,18:15:00,5,Dialysis Machine
+P47,Vedanth Shetty,,6/22/2025 18:15,1,Infusion Pump
